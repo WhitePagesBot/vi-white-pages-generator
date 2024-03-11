@@ -1,0 +1,1 @@
+# vi-white-pages-generator
